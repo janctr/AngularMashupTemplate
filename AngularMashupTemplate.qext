@@ -3,11 +3,11 @@
 	"name": "AngularMashupTemplate",
 	"description": "Basic responsive mashup template",
 	"version": "1.0.0",
-	"author": "",
+	"author": "Jan Iverson Eligio",
 	"homepage": "",
 	"keywords": "qlik-sense, visualization, mashup",
 	"license": "",
-	"repository": "",
+	"repository": "https://github.com/janctr/AngularMashupTemplate",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
